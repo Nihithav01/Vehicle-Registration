@@ -3,7 +3,7 @@
 #### This is a web application used for vehicle registration and vehicle detail retrieval. The website was designed using Java technology
 
 # Technology stack
-##### Java, Java servlet, Java DataBase Connectivity (JDBC), HTML, CSS
+##### Java, Java servlet, Java DataBase Connectivity (JDBC), HTML, CSS, XML
 
 # Working
 
